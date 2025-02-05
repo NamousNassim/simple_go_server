@@ -7,7 +7,9 @@ This is a basic Go web server that serves static files, handles form submissions
 - Serves static files from the `static` directory.
 - Handles GET requests at `/hello`, returning "hello world".
 - Processes form submissions at `/form`.
+## Diagram
 
+![diag](screenshots/diag.png)
 ## output
 
 ![1](screenshots/1.png)
